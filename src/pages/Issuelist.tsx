@@ -1,7 +1,7 @@
 import React from "react";
 
 const Issuelist = () => {
-  return <div>list</div>;
+  return <main>list</main>;
 };
 
 export default Issuelist;
